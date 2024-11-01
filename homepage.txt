@@ -2,3 +2,6 @@ hi
 profile info
 sorting
 filtering
+checkout
+payment
+add to cart
